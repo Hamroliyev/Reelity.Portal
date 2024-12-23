@@ -1,7 +1,64 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|solutionrelative:reelity.portal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web\\brokers\\api\\apibroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|solutionrelative:reelity.portal.web\\brokers\\api\\apibroker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web\\views\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|solutionrelative:reelity.portal.web\\views\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web\\views\\components\\basics\\basiccomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|solutionrelative:reelity.portal.web\\views\\components\\basics\\basiccomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web\\views\\components\\studentformcomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|solutionrelative:reelity.portal.web\\views\\components\\studentformcomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55264A6D-94E7-49B4-9982-4893BF2AD780}|Reelity.Portal.Web.Tests.Unit\\Reelity.Portal.Web.Tests.Unit.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web.tests.unit\\components\\studentformcomponenttests.logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55264A6D-94E7-49B4-9982-4893BF2AD780}|Reelity.Portal.Web.Tests.Unit\\Reelity.Portal.Web.Tests.Unit.csproj|solutionrelative:reelity.portal.web.tests.unit\\components\\studentformcomponenttests.logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55264A6D-94E7-49B4-9982-4893BF2AD780}|Reelity.Portal.Web.Tests.Unit\\Reelity.Portal.Web.Tests.Unit.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web.tests.unit\\components\\studentformcomponenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55264A6D-94E7-49B4-9982-4893BF2AD780}|Reelity.Portal.Web.Tests.Unit\\Reelity.Portal.Web.Tests.Unit.csproj|solutionrelative:reelity.portal.web.tests.unit\\components\\studentformcomponenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web\\views\\components\\basics\\basiccomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|solutionrelative:reelity.portal.web\\views\\components\\basics\\basiccomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web\\models\\basics\\componentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|solutionrelative:reelity.portal.web\\models\\basics\\componentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web\\views\\bases\\textboxbase.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|solutionrelative:reelity.portal.web\\views\\bases\\textboxbase.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web\\views\\bases\\textboxbase.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|solutionrelative:reelity.portal.web\\views\\bases\\textboxbase.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55264A6D-94E7-49B4-9982-4893BF2AD780}|Reelity.Portal.Web.Tests.Unit\\Reelity.Portal.Web.Tests.Unit.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web.tests.unit\\services\\deleteme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55264A6D-94E7-49B4-9982-4893BF2AD780}|Reelity.Portal.Web.Tests.Unit\\Reelity.Portal.Web.Tests.Unit.csproj|solutionrelative:reelity.portal.web.tests.unit\\services\\deleteme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|solutionrelative:reelity.portal.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|solutionrelative:reelity.portal.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +75,186 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentFormComponent.razor.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Views\\Components\\StudentFormComponent.razor.cs",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web\\Views\\Components\\StudentFormComponent.razor.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Views\\Components\\StudentFormComponent.razor.cs",
+              "RelativeToolTip": "Reelity.Portal.Web\\Views\\Components\\StudentFormComponent.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:10:45.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Views\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web\\Views\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Views\\Pages\\Home.razor",
+              "RelativeToolTip": "Reelity.Portal.Web\\Views\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T12:13:42.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Program.cs*",
+              "RelativeToolTip": "Reelity.Portal.Web\\Program.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:14:31.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasicComponent.razor",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Views\\Components\\Basics\\BasicComponent.razor",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web\\Views\\Components\\Basics\\BasicComponent.razor",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Views\\Components\\Basics\\BasicComponent.razor",
+              "RelativeToolTip": "Reelity.Portal.Web\\Views\\Components\\Basics\\BasicComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T06:33:45.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiBroker.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Brokers\\API\\ApiBroker.cs",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web\\Brokers\\API\\ApiBroker.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Brokers\\API\\ApiBroker.cs",
+              "RelativeToolTip": "Reelity.Portal.Web\\Brokers\\API\\ApiBroker.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T12:24:32.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentFormComponentTests.Logic.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web.Tests.Unit\\Components\\StudentFormComponentTests.Logic.cs",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web.Tests.Unit\\Components\\StudentFormComponentTests.Logic.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web.Tests.Unit\\Components\\StudentFormComponentTests.Logic.cs",
+              "RelativeToolTip": "Reelity.Portal.Web.Tests.Unit\\Components\\StudentFormComponentTests.Logic.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:17:07.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentFormComponentTests.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web.Tests.Unit\\Components\\StudentFormComponentTests.cs",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web.Tests.Unit\\Components\\StudentFormComponentTests.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web.Tests.Unit\\Components\\StudentFormComponentTests.cs",
+              "RelativeToolTip": "Reelity.Portal.Web.Tests.Unit\\Components\\StudentFormComponentTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:12:40.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasicComponent.razor.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Views\\Components\\Basics\\BasicComponent.razor.cs",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web\\Views\\Components\\Basics\\BasicComponent.razor.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Views\\Components\\Basics\\BasicComponent.razor.cs",
+              "RelativeToolTip": "Reelity.Portal.Web\\Views\\Components\\Basics\\BasicComponent.razor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:34:04.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComponentState.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Models\\Basics\\ComponentState.cs",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web\\Models\\Basics\\ComponentState.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Models\\Basics\\ComponentState.cs",
+              "RelativeToolTip": "Reelity.Portal.Web\\Models\\Basics\\ComponentState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:28:18.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TextBoxBase.razor.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Views\\Bases\\TextBoxBase.razor.cs",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web\\Views\\Bases\\TextBoxBase.razor.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Views\\Bases\\TextBoxBase.razor.cs",
+              "RelativeToolTip": "Reelity.Portal.Web\\Views\\Bases\\TextBoxBase.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:03:37.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextBoxBase.razor",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Views\\Bases\\TextBoxBase.razor",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web\\Views\\Bases\\TextBoxBase.razor",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Views\\Bases\\TextBoxBase.razor",
+              "RelativeToolTip": "Reelity.Portal.Web\\Views\\Bases\\TextBoxBase.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T06:03:16.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteMe.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web.Tests.Unit\\Services\\DeleteMe.cs",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web.Tests.Unit\\Services\\DeleteMe.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web.Tests.Unit\\Services\\DeleteMe.cs",
+              "RelativeToolTip": "Reelity.Portal.Web.Tests.Unit\\Services\\DeleteMe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:02:25.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\appsettings.Development.json",
+              "RelativeToolTip": "Reelity.Portal.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T12:29:54.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\App.razor",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web\\App.razor",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\App.razor",
+              "RelativeToolTip": "Reelity.Portal.Web\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-21T11:50:26.313Z"
             }
           ]
         }
