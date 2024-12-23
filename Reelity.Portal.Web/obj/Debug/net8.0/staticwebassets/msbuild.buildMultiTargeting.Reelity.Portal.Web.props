@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Reelity.Portal.Web.props" />
+</Project>

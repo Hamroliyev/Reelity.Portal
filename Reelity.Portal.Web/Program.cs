@@ -1,27 +1,59 @@
-using Reelity.Portal.Web.Components;
+// ---------------------------------------------------------------
+// Copyright (c) Coalition of the Good-Hearted Engineers
+// FREE TO USE AS LONG AS SOFTWARE FUNDS ARE DONATED TO THE POOR
+// ---------------------------------------------------------------
 
-var builder = WebApplication.CreateBuilder(args);
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.Logging;
+using Reelity.Portal.Web;
+using Reelity.Portal.Web.Brokers.API;
+using Reelity.Portal.Web.Brokers.DateTimes;
+using Reelity.Portal.Web.Brokers.Logging;
+using Reelity.Portal.Web.Brokers.Loggings;
 
-// Add services to the container.
-builder.Services.AddRazorComponents()
-    .AddInteractiveServerComponents();
-
-var app = builder.Build();
-
-// Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
+public class Program
 {
-    app.UseExceptionHandler("/Error", createScopeForErrors: true);
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
+    private static void Main(string[] args)
+    {
+        var builder = WebApplication.CreateBuilder(args);
+
+        builder.Services.AddRazorComponents()
+            .AddInteractiveServerComponents();
+
+        AddRootDirectory(builder);
+        builder.Services.AddHttpClient();
+        builder.Services.AddScoped<IApiBroker, ApiBroker>();
+        builder.Services.AddScoped<ILogger, Logger<LoggingBroker>>();
+        builder.Services.AddScoped<ILoggingBroker, LoggingBroker>();
+        builder.Services.AddScoped<IDateTimeBroker, DateTimeBroker>();
+
+
+        var app = builder.Build();
+
+        if (!app.Environment.IsDevelopment())
+        {
+            app.UseExceptionHandler("/Error", createScopeForErrors: true);
+            app.UseHsts();
+        }
+
+        app.UseHttpsRedirection();
+
+        app.UseStaticFiles();
+        app.UseAntiforgery();
+
+        app.MapRazorComponents<App>()
+            .AddInteractiveServerRenderMode();
+
+        app.Run();
+    }
+
+    private static void AddRootDirectory(WebApplicationBuilder builder)
+    {
+        builder.Services.AddRazorPages(options =>
+        {
+            options.RootDirectory = "/Views/Pages";
+        });
+    }
 }
-
-app.UseHttpsRedirection();
-
-app.UseStaticFiles();
-app.UseAntiforgery();
-
-app.MapRazorComponents<App>()
-    .AddInteractiveServerRenderMode();
-
-app.Run();
