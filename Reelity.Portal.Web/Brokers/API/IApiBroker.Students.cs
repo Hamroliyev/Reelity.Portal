@@ -3,9 +3,13 @@
 // FREE TO USE AS LONG AS SOFTWARE FUNDS ARE DONATED TO THE POOR
 // ---------------------------------------------------------------
 
+using Reelity.Portal.Web.Models.Students;
+using System.Threading.Tasks;
+
 namespace Reelity.Portal.Web.Brokers.API
 {
     public partial interface IApiBroker
     {
+        ValueTask<Student> PostStudentAsync(Student student);
     }
 }

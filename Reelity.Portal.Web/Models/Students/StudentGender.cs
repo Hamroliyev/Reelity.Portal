@@ -3,9 +3,12 @@
 // FREE TO USE AS LONG AS SOFTWARE FUNDS ARE DONATED TO THE POOR
 // ---------------------------------------------------------------
 
-namespace Reelity.Portal.Web.Brokers.API
+namespace Reelity.Portal.Web.Models.Students
 {
-    public partial interface IApiBroker
+    public enum StudentGender
     {
+        Male,
+        Female,
+        Other
     }
 }
