@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web\\models\\students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|solutionrelative:reelity.portal.web\\models\\students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|c:\\users\\ahmad\\desktop\\tarteeb 7\\reelity.portal\\reelity.portal.web\\views\\components\\studentformcomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DC6AF2-7A14-4ED9-AC89-9BC683A9B370}|Reelity.Portal.Web\\Reelity.Portal.Web.csproj|solutionrelative:reelity.portal.web\\views\\components\\studentformcomponent.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +31,36 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Models\\Students\\Student.cs",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web\\Models\\Students\\Student.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Models\\Students\\Student.cs",
+              "RelativeToolTip": "Reelity.Portal.Web\\Models\\Students\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:52:59.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentFormComponent.razor.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Views\\Components\\StudentFormComponent.razor.cs",
+              "RelativeDocumentMoniker": "Reelity.Portal.Web\\Views\\Components\\StudentFormComponent.razor.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Desktop\\Tarteeb 7\\Reelity.Portal\\Reelity.Portal.Web\\Views\\Components\\StudentFormComponent.razor.cs",
+              "RelativeToolTip": "Reelity.Portal.Web\\Views\\Components\\StudentFormComponent.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:43:32.626Z",
+              "EditorCaption": ""
             }
           ]
         }

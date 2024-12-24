@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reelity.Portal.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62bd31b9536c9aacde2cb28f0ab9b936106e544a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69842f4c98fa66e465e64fc4eac4f0bec88d5cd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reelity.Portal.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reelity.Portal.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
