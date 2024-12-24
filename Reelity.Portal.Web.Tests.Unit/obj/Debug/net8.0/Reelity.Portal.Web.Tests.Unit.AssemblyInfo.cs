@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reelity.Portal.Web.Tests.Unit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6df91698aa5911d3962f21fa208c752178636796")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f4069ede65a109cbd05910b11317e65cb315f50")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reelity.Portal.Web.Tests.Unit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reelity.Portal.Web.Tests.Unit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
